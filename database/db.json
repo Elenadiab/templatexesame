@@ -1,0 +1,79 @@
+{
+    "profumi": [
+      {
+        "id": "1",
+        "nome": "Dolce & Gabbana",
+        "immagine": "./img/Gabbana.png",
+        "tipo": "Dolce",
+        "prezzo": 65,
+        "disponibilita": true
+      },
+
+      {
+        "id": "2",
+        "nome": "Armani",
+        "immagine": "./img/Armani.png",
+        "tipo": "Dolce",
+        "prezzo": 85,
+        "disponibilita": true
+      },
+      
+      {
+        "id": "3",
+        "nome": "Chanel",
+        "immagine": "./img/Chanel.png",
+        "tipo": "Fruttato",
+        "prezzo": 30,
+        "disponibilita": true
+      },
+      
+      {
+        "id": "4",
+        "nome": "Burberry",
+        "immagine": "./img/Burberry.png",
+        "tipo": "Fruttato",
+        "prezzo": 55,
+        "disponibilita": true
+      },
+      
+      {
+        "id": "5",
+        "nome": "Delicato",
+        "immagine": "./img/Coach.png",
+        "prezzo": 68,
+        "disponibilita": false
+      },
+
+      {
+        "id": "6",
+        "nome": "Nomade",
+        "immagine": "./img/Nomade.png",
+        "tipo": "Delicato",
+        "prezzo": 45,
+        "disponibilita": false
+      }
+      
+      
+      
+     
+    ],
+    "bigliettiAcquistati": [
+  
+      {
+        "id": "8346",
+        "persona": "Dario Mennillo",
+        "email": "dario.mennillo@maill.com",
+        "tel": "23456789",
+        "metodoPagamento": "7685767890341789234",
+        "numBiglietti": "2"
+      },
+      {
+        "id": "7176",
+        "persona": "Dario Mennillo",
+        "email": "dario.mennillo@maill.com",
+        "tel": "98779846513216546",
+        "metodoPagamento": "98765432135468",
+        "numBiglietti": "3"
+      }
+    ]
+  }

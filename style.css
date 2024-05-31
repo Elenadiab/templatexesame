@@ -1,0 +1,81 @@
+
+
+
+/* -------------------------------------------------------------------------- */
+/*                                   NAVBAR                                   */
+/* -------------------------------------------------------------------------- */
+
+.navbar {
+    height: 100px;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+
+
+
+
+/* -------------------------------------------------------------------------- */
+/*                                   SWIPER                                   */
+/* -------------------------------------------------------------------------- */
+
+
+.swiper-button-next, .swiper-button-prev {
+  color: rgb(22, 22, 22) !important;
+}
+
+
+
+/* -------------------------------------------------------------------------- */
+/*                                  CARRELLO                                  */
+/* -------------------------------------------------------------------------- */
+
+.titoloCarrello {
+  padding-top: 8rem;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                   FOOTER                                   */
+/* -------------------------------------------------------------------------- */
+
+
+#main-footer {
+    margin-bottom: 0 !important;
+}
+
+
+ul {
+    list-style-type: none; /* Rimuove i pallini dalla lista */
+    padding: 0; /* Rimuove il padding predefinito della lista */
+  }
+  
+  ul li {
+    margin-bottom: 10px; /* Aggiunge un margine inferiore tra gli elementi della lista */
+  }
+  
+  a:hover {
+    text-decoration: none; /* Assicura che la sottolineatura non venga visualizzata al passaggio del mouse */
+  }
+  
+
+  a {
+    text-decoration: none; /* Rimuove la sottolineatura dai link */
+    display: inline-block; /* Permette di gestire il padding */
+  }
+  
+  a i {
+    margin-right: 5px; /* Aggiunge uno spazio a destra tra l'icona e il testo */
+  }
+  
+
+
+
+
+  /* -------------------------------------------------------------------------- */
+  /*                                 MEDIA QUERY                                */
+  /* -------------------------------------------------------------------------- */
+
+
+  
